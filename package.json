@@ -9,7 +9,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "@sindresorhus/is": "^5.4.1",
     "express": "^4.17.2",
