@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sindresorhus/is": "^5.4.1",
     "express": "^4.17.2",
+    "handlebars": "^4.7.7",
     "hbs": "^4.2.0",
     "mongoose": "^6.1.6",
     "nodemon": "^2.0.15"
